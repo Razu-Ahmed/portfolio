@@ -1,0 +1,36 @@
+@media all and (max-width: 980px){
+  .manu-area{
+	  display:none;
+  }
+   .phone-menu a{
+	   display:block;
+	   font-size:35px;
+	   float:right;
+   }
+   .services-area p{
+	   width:100%;
+   }
+   .col-1-4{
+	   width:50%;
+   }
+   .about-us-area .img-area{
+	   width:100%;
+	   float:none;
+	   text-align:center;
+   }
+   .about-us-area .client-cont-sec{
+	   width:100%;
+	   float:none;
+	   text-align:center;
+   }
+   .client-2nd{
+	   margin-top:30px;
+   }
+  }
+  @media all and (max-width: 480px){
+	 .col-1-4{
+	   width:100%;
+	   float:none;
+	   
+   } 
+  }
